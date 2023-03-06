@@ -19,6 +19,12 @@ The program allows you to specify certain parameters such as bounds and number o
 * `-w, --width <width>`: Width of generated set (default: 100)
 * `-t, --height <height>`: Height of generated set (default: 24)
 
+### Installation
+1. Clone the repository using `git clone https://github.com/txrunn/mandelbrot-cli.git`
+2. Install Rust by following the instructions at https://www.rust-lang.org/tools/install
+3. Navigate to the repository directory and run `cargo build --release` to compile the binary
+4. The binary will be created in the `target/release` directory
+
 ## Future Features
 
 * Support for custom color schemes
