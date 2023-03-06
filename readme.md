@@ -1,4 +1,4 @@
-# mandelbrot-cli.rs
+# mandelbrot-cli
 
 `mandelbrot-cli.rs` is a command-line interface (CLI) program that displays a Mandelbrot set in your terminal. A Mandelbrot set is a mathematical fractal used to study chaos theory. A Mandelbrot set is defined as the set of all complex numbers c so that the orbit of 0 remains bounded under each iteration of the function.
 
